@@ -1,9 +1,3 @@
-# AirBnB_project
-
-Om Kathale <omkathale88@gmail.com>
-18:34 (3 minutes ago)
-to me
-
 # AirBnB_Impact_of_Regulation_Project
 Airbnb is an online marketplace that connects people who want to rent out their homes with travelers seeking accommodations.
 
