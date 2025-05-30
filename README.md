@@ -1,11 +1,12 @@
 # AirBnB_Impact_of_Regulation_Project
 Airbnb is an online marketplace that connects people who want to rent out their homes with travelers seeking accommodations.
+<img src="Air BNB image.jpg" width=1000>
 
 ## Project Link
 
 [AirBnB Impact of Regulations_Project](https://www.kaggle.com/code/omkathale1998/airbnb-project-1)
 
-<img src="Aribnb.image.png" width=1000>
+
 
 ## Overview :
 This dataset contains Airbnb data for over 250,000 listings across 10 major cities worldwide. It includes detailed information about hosts, pricing, locations, room types, and over 5 million historical guest reviews. The dataset provides valuable insights for studying trends in the short-term rental market.
